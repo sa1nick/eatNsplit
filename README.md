@@ -10,11 +10,10 @@
   
   ## Features
   
-  - **User-Friendly Interface**: An intuitive and clean user interface makes it easy to manage your expenses and friends.
+  - **User-Friendly Interface**: An intuitive and clean user interface makes it easy to manage your expenses and friends.[Not Responsive yet]
   - **Add New Friends**: Keep a record of your friends and their contact information.
   - **Expense Tracking**: Record expenses and specify who participated. The app will calculate each person's share.
   - **Real-Time Balances**: Instantly see who owes you money and who you owe.
-  - **Categories**: Categorize expenses for better organization.
   - **Settle Debts**: Easily settle debts with friends and keep a history of payments.
   
   ## Getting Started
