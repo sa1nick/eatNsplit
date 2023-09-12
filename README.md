@@ -2,7 +2,7 @@
   
   A React app that helps users split and keep track of their expenses with their friends. You can easily add new friends, record expenses, and settle debts effortlessly.
   
-  ![Eat-N-Split Screenshot](screenshot.png)
+  ![Eat-N-Split Screenshot](https://github.com/n1khilnick/eatNsplit/blob/891f98d8268608ab002054d51912cd18eda97d12/public/eat-n-split-preview.png)
   
   ## Live Demo
   
